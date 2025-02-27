@@ -1,4 +1,4 @@
-**Web Browser Automation Testing with WebDriverIO**
+# **Web Browser Automation Testing with WebDriverIO** 
 
 Welcome to the Web Browser Automation Testing project! 🎉
 
