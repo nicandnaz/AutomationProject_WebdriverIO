@@ -10,14 +10,21 @@ WebDriverIO is a powerful and easy-to-use test automation framework that works w
 📝 Tests
 The project includes various test scripts to automate common browser interactions like:
 
-•	Login page
-•	Radio button selection
-•	Checkbox selection
-•	Dropdown selection
-•	Handling Pop-up dialogs
-•	Selecting hidden objects
-•	Handling Alerts
-•	Handling Child windows
+	•	Login page
+
+	•	Radio button selection
+
+	•	Checkbox selection
+
+	•	Dropdown selection
+
+	•	Handling Pop-up dialogs
+
+	•	Selecting hidden objects
+
+	•	Handling Alerts
+
+	•	Handling Child windows
 
 🤖 Contributors
 Feel free to contribute to the project! Whether you're improving documentation, adding new features, or fixing bugs, your help is greatly appreciated.
