@@ -9,9 +9,6 @@ it('Successful login', async()=>
         //Define variables
         const username = $("#username")
         const password = $("#password")
-        const radiobutton = $$(".radiotextsty")
-        const warningmodal = $(".modal-body")
-        const dropdown = $("select.form-control")
 
         //Invoke browser
         await browser.url("https://rahulshettyacademy.com/loginpagePractise/")
@@ -34,9 +31,6 @@ it('Unsuccessful login', async()=>
         //Define variables
         const username = $("#username")
         const password = $("#password")
-        const radiobutton = $$(".radiotextsty")
-        const warningmodal = $(".modal-body")
-        const dropdown = $("select.form-control")
 
         //Invoke browser
         await browser.url("https://rahulshettyacademy.com/loginpagePractise/")
@@ -60,12 +54,9 @@ it('Unsuccessful login', async()=>
 it('Switch User Type via Radio Button', async()=>
     {
         //Define variables
-        const username = $("#username")
-        const password = $("#password")
         const radiobutton = $$(".radiotextsty") //This needs an index
         const warningmodal = $(".modal-body")
         const warningokbutton = $("#okayBtn")
-        const dropdown = $("select.form-control")
 
         //Invoke browser
         await browser.url("https://rahulshettyacademy.com/loginpagePractise/")
@@ -97,11 +88,6 @@ it('Switch User Type via Radio Button', async()=>
 
 it('Select dropdown option', async()=>{
         //Define variables
-        const username = $("#username")
-        const password = $("#password")
-        const radiobutton = $$(".radiotextsty") //This needs an index
-        const warningmodal = $(".modal-body")
-        const warningokbutton = $("#okayBtn")
         const dropdown = $("select.form-control")
 
         //Invoke browser
