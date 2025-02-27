@@ -115,13 +115,6 @@ it('Select dropdown option', async()=>{
         //chai assertion
         expectchai(await dropdown.getValue()).to.equal("consult")
         await browser.saveScreenshot("loginpagePractice-SelectDropdownOption.png")   
-
-
-
-
-
-
-
     }
 )
 
