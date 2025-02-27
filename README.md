@@ -1,13 +1,13 @@
 # **Web Browser Automation Testing with WebDriverIO** 
 
-Welcome to the Web Browser Automation Testing project! 🎉
-
 This repository showcases how to use WebDriverIO for automating web browser testing. I created this repository to showcase my emerging skills in automation.
 
-🔧 About WebDriverIO
+## 🔧 About WebDriverIO
+
 WebDriverIO is a powerful and easy-to-use test automation framework that works well with modern browsers and integrates seamlessly with services like Selenium and Appium. It's designed to help you write tests for web applications in a concise and efficient manner.
 
-📝 Tests
+## 📝 Tests
+
 The project includes various test scripts to automate common browser interactions like:
 
 	•	Login page
@@ -26,5 +26,6 @@ The project includes various test scripts to automate common browser interaction
 
 	•	Handling Child windows
 
-🤖 Contributors
+## 🤖 Contributors
+
 Feel free to contribute to the project! Whether you're improving documentation, adding new features, or fixing bugs, your help is greatly appreciated.
