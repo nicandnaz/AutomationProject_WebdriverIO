@@ -54,7 +54,6 @@ it('Unsuccessful login', async()=>
             timeout: 5000,
             timeoutMsg: "error message should be displayed"
         })
-        
     }
 )
 
